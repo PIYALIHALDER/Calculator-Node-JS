@@ -1,0 +1,11 @@
+var cal = require('./calculator');
+//foo();
+console.log();
+console.log("Addition        :"+cal.sum(10,2));
+console.log();
+console.log("Substraction    :"+cal.sub(10,2));
+console.log();
+console.log("Multiplication  :"+cal.mul(10,2));
+console.log();
+console.log("Division        :"+cal.div(10,2));
+console.log();
